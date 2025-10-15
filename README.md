@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Thiha @ Kevin</h1>
-<h3 align="center">Senior Full Stack Developer from Myanmar who is currently study and work in Finland</h3>
+<h3 align="center">Senior Full Stack Developer from Myanmar, currently pursuing a Master’s degree in Information Technology with a specialization in Medical Technology (MedTech) in Finland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kthiha-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kthiha-dev" /> </p>
 
